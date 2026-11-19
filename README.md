@@ -1,12 +1,6 @@
-<div align="center">
+ <div align="center">
 
 <img src="./assets/header.svg" alt="Pourush Goyal - Full Stack Developer" width="100%"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/pourushgoyal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22&color=30363D" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/PoGo_2005/"><img src="https://img.shields.io/badge/LeetCode-PoGo__2005-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22&color=30363D" alt="LeetCode"/></a>
-<a href="mailto:pourushgoyal2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0D1117?style=for-the-badge&logo=gmail&logoColor=8B7CFF&labelColor=161B22&color=30363D" alt="Email"/></a>
 
 </div>
 
@@ -39,11 +33,18 @@ I work across the stack, from React interfaces to Node.js APIs and MongoDB, and 
   </tr>
   <tr>
     <td><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=161B22" alt="MongoDB"/>
+    </td>
   </tr>
   <tr>
     <td><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn&theme=dark" alt="NumPy, Pandas, Matplotlib, Scikit-learn"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=161B22" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=161B22" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=161B22" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=161B22" alt="Scikit-learn"/>
+    </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
@@ -113,7 +114,6 @@ Always happy to talk about software engineering, full stack projects, and AI/ML.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pourushgoyal/"><img src="https://img.shields.io/badge/LinkedIn-pourushgoyal-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22&color=30363D" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/PoGo_2005/"><img src="https://img.shields.io/badge/LeetCode-PoGo__2005-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22&color=30363D" alt="LeetCode"/></a>
 <a href="mailto:pourushgoyal2005@gmail.com"><img src="https://img.shields.io/badge/Email-pourushgoyal2005%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=8B7CFF&labelColor=161B22&color=30363D" alt="Email"/></a>
 
 <br/><br/>
