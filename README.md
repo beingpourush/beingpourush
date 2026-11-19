@@ -106,33 +106,6 @@ I work across the stack, from React interfaces to Node.js APIs and MongoDB, and 
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=beingpourush&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B7CFF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=beingpourush&hide_border=true&background=0D1117&ring=8B7CFF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beingpourush&bg_color=0D1117&color=C9D1D9&line=8B7CFF&point=FFFFFF&area=true&area_color=8B7CFF&hide_border=true" alt="Contribution activity graph" width="100%"/>
-</div>
-
-<br/>
-
-## Problem Solving
-
-500+ DSA problems solved across LeetCode and GeeksforGeeks. Consistent practice is what keeps my fundamentals sharp.
-
-<div align="center">
-  <a href="https://leetcode.com/u/PoGo_2005/">
-    <img src="https://leetcard.jacoblin.cool/PoGo_2005?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats for PoGo_2005" width="85%"/>
-  </a>
-</div>
-
-<br/>
-
 ## Let's Connect
 
 Always happy to talk about software engineering, full stack projects, and AI/ML. Reach out on any of these.
