@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Pourush Goyal - Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.85" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#8B7CFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8B7CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.05" cy="1" r="0.55">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#B9B2FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="240" rx="16" fill="url(#bg)"/>
+  <rect width="1000" height="240" rx="16" fill="url(#glowA)"/>
+  <rect width="1000" height="240" rx="16" fill="url(#glowB)"/>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="15.5" fill="none" stroke="#30363D"/>
+
+  <text x="64" y="78" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="16" fill="#8B7CFF" letter-spacing="2">&lt;/&gt; FULL STACK DEVELOPER</text>
+  <text x="64" y="140" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="url(#name)">Pourush Goyal</text>
+  <text x="64" y="182" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#8B949E">Building useful products. Curious about backend systems and AI/ML.</text>
+  <text x="64" y="210" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" fill="#6E7681">B.Tech CSE '27  |  LNMIIT Jaipur</text>
+
+  <g stroke="#8B7CFF" stroke-opacity="0.5" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M840 96 L800 130 L840 164"/>
+    <path d="M928 96 L968 130 L928 164"/>
+    <path d="M900 90 L868 170" stroke="#58A6FF" stroke-opacity="0.7"/>
+  </g>
+</svg>
