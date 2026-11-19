@@ -1,12 +1,7 @@
- <div align="center">
+
+<div align="center">
 
 <img src="./assets/header.svg" alt="Pourush Goyal - Full Stack Developer" width="100%"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/pourushgoyal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22&color=30363D" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/PoGo_2005/"><img src="https://img.shields.io/badge/LeetCode-PoGo__2005-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22&color=30363D" alt="LeetCode"/></a>
-<a href="mailto:pourushgoyal2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0D1117?style=for-the-badge&logo=gmail&logoColor=8B7CFF&labelColor=161B22&color=30363D" alt="Email"/></a>
 
 </div>
 
